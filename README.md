@@ -1,10 +1,3 @@
----
-title: "Image Classification on CIFAR-10 with ResNet-152 and EfficientNet-B2"
-output: 
-  github_document: default
----
-
-
 # Image Classification on CIFAR-10 with ResNet-152 and EfficientNet-B2
 
 This repository contains code for fine-tuning and evaluating two state-of-the-art deep learning models, ResNet-152 and EfficientNet-B2, on the CIFAR-10 dataset. The project compares the performance of these models in terms of classification accuracy, computational efficiency, and generalization ability.
