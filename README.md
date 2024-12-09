@@ -1,7 +1,9 @@
 ---
 title: "Image Classification on CIFAR-10 with ResNet-152 and EfficientNet-B2"
-output: github_document
+output: 
+  github_document: default
 ---
+
 
 # Image Classification on CIFAR-10 with ResNet-152 and EfficientNet-B2
 
